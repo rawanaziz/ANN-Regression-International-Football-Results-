@@ -7,7 +7,7 @@ This repositer contains the following :
 
  1-Simple code (ANN Regression for FIFA Cup.ipynb)
 
- 2- Simple Dashboard (Football_Results_DB )
+ 2- Simple Dashboard (MyFTN.pbix )
  
  The datasets are in kaggel
  https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/code?select=shootouts.csv
