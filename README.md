@@ -2,7 +2,7 @@
 
 This is a Simple Deep learning Regression , to see how will we use the deep learning as Regression.
 
-This repositer ocntains the following :
+This repositer contains the following :
 
 
  1-Simple code (ANN Regression for FIFA Cup.ipynb)
