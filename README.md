@@ -2,7 +2,9 @@
 
 This is a Simple Deep learning Regression , to see how will we use the deep learning as Regression.
 
-you find 2 files :
+You find 2 files :
+
+
  1-Simple code (ANN Regression for FIFA Cup.ipynb)
 
  2- Simple Dashboard (Football_Results_DB )
